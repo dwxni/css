@@ -1,1 +1,114 @@
+<style type="text/css">body {
+    margin: 0;
+}
 
+header {
+    height: 100px;
+    box-shadow: 0px 5px 13px 2px #C2C2C2;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+header a {
+    margin-right: 16px;
+    text-decoration: none;
+    color: rgba(2, 0, 0, 0.418);
+}
+
+header a:hover {
+    color: rgba(2, 0, 0, 0.829);
+
+}
+
+.container a {
+    background-color: blueviolet;
+    color: white;
+    text-decoration: none;
+    padding:16px 31px;
+    border: 1px solid rgba(0, 0, 0, 0.726);
+}
+
+.container a:hover {
+    background-color: rgb(153, 76, 226);
+}
+
+
+
+.myButton {
+		background-color:#ffffff;
+	border-radius:20px;
+	border:1px solid #000000;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:14px;
+	font-weight:bold;
+	padding:9px 18px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #ffffff;
+}
+.myButton:hover {
+	background-color:#eaede8;
+}
+
+
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.myButton {
+    margin-top: 150px;
+  
+}
+
+.myButton2 {
+	background-color:#ffffff;
+	border-radius:20px;
+	border:1px solid #000000;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:14px;
+	font-weight:bold;
+	padding:9px 18px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #ffffff;
+}
+.myButton2:hover {
+	background-color:#eaede8;
+}
+
+
+.myButton2:active {
+	position:relative;
+	top:1px;
+}
+
+  
+.myButton3 {
+		background-color:#ffffff;
+	border-radius:20px;
+	border:1px solid #000000;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:14px;
+	font-weight:bold;
+	padding:9px 18px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #ffffff;
+}
+.myButton3:hover {
+	background-color:#eaede8;
+}
+
+
+.myButton3:active {
+	position:relative;
+	top:1px;
+}
+</style>
